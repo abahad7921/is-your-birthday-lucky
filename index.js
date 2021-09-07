@@ -38,7 +38,7 @@ checkBtn.addEventListener('click',()=>{
     }
     else{
         console.log("your birthday is not lucky");
-        showErrorMessage("your birthday is not lucky")
+        showErrorMessage("your birthday is not lucky 🥺")
     }
 
 });
